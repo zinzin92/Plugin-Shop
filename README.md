@@ -4,7 +4,7 @@
 Le plugin Shop ajoute une boutique en ligne sur votre site, permettant à vos joueurs d'acheter des choses contre de l'argent réel (VotreSite/shop).
 
 ## Installation | FTP
-1. Cliquez sur "Clone or download" sur la page "https://github.com/MineWeb/Plugin-Shop".
+1. Cliquez sur "Clone or download" sur la page "https://github.com/zinzin92/Plugin-Shop".
 2. Téléchargez et enregistrez le ZIP, puis extrayez le.
 3. Renommez le fichier "Plugin-Shop-master" par "Shop".
 4. Déplacez le fichier dans votre FTP à l'adresse "/app/Plugin".
